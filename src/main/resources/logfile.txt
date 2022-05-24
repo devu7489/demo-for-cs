@@ -1,0 +1,24 @@
+{"id":"system1", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":"1491377495212"}
+{"id":"system2", "state":"STARTED", "timestamp":"1491377495213"}
+{"id":"system1", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":"1491377495217"}
+{"id":"system2", "state":"FINISHED", "timestamp":"1491377495216"}
+{"id":"system3", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system3", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system4", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system4", "state":"FINISHED", "timestamp":"1491377495213"}
+{"id":"system5", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system6", "state":"FINISHED", "timestamp":"1491377495219"}
+{"id":"system7", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system5", "state":"FINISHED", "timestamp":"1491377495221"}
+{"id":"system6", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system7", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system8", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system8", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system9", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system9", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system10", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system10", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system11", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system11", "state":"FINISHED", "timestamp":"1491377495218"}
+{"id":"system12", "state":"STARTED", "timestamp":"1491377495210"}
+{"id":"system12", "state":"FINISHED", "timestamp":"1491377495218"}
